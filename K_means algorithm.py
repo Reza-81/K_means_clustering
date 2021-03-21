@@ -103,4 +103,7 @@ def update():
 # print(points)
 # print(clusters)
 # print(centroids)
+#
+#
+#
 print(update())
