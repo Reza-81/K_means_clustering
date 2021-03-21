@@ -100,7 +100,5 @@ def update():
         faseleha = dict_fasele()
         clusters2 = clustering(faseleha)
         return update()  
-# print(points)
-# print(clusters)
-# print(centroids)
+
 print(update())
