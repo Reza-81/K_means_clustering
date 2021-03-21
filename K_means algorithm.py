@@ -99,6 +99,7 @@ def update():
         centroids = new_centroids()
         faseleha = dict_fasele()
         clusters2 = clustering(faseleha)
-        return update()  
-
+        return update()
+#
+#
 print(update())
